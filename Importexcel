@@ -1,0 +1,2 @@
+import csv
+with open ('Minoren_keuze_anoniem.csv', 'rb') as csvfile
